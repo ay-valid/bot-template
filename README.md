@@ -11,4 +11,5 @@
 ```bash
 # NodeJS 15 | npm 7
 npm i
+node bot.js
 ```
